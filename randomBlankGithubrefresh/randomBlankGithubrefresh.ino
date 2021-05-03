@@ -157,7 +157,7 @@ displayRTC();
 
 
 
- //decideToggle(desiredTemp, currentTemp, mode);  
+ decideToggle(desiredTemp, currentTemp, mode);  
 
    
 
